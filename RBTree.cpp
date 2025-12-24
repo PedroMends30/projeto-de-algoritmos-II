@@ -1,3 +1,12 @@
+/*
+Atividade I da disciplina de Projeto de Algortimos II
+O seguinte código é a referente questão 2 sobre a implementação de uma Árvore Rubro-Negra
+Trabalho da dupla:
+Pedro da Silva Mendes
+Itallo Fernando Cavalcante do Nascimento
+*/
+
+
 #include <iostream>
 #include <cstdio>
 
